@@ -1,0 +1,187 @@
+.keranjang-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .keranjang-keranjang {
+    width: 100%;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(217, 217, 217, 1);
+  }
+  .keranjang-text {
+    top: 57px;
+    left: 365px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .keranjang-text02 {
+    top: 142px;
+    left: 367px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .keranjang-trash31button {
+    top: 158px;
+    left: 1217px;
+    width: 30px;
+    height: 28px;
+    position: absolute;
+  }
+  .keranjang-text04 {
+    top: 703px;
+    left: 367px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .keranjang-text06 {
+    top: 773px;
+    left: 367px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .keranjang-text08 {
+    top: 843px;
+    left: 367px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .keranjang-text10 {
+    top: 711px;
+    left: 732px;
+    color: rgba(0, 0, 0, 0.44999998807907104);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .keranjang-text12 {
+    top: 781px;
+    left: 727px;
+    color: rgba(0, 0, 0, 0.44999998807907104);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .keranjang-text14 {
+    top: 846px;
+    left: 732px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .keranjang-frame4button {
+    gap: 10px;
+    top: 926px;
+    left: 602px;
+    width: 192px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    align-items: flex-start;
+    background-color: rgba(251, 149, 28, 1);
+  }
+  .keranjang-text16 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 24px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .keranjang-arrowleft1 {
+    top: 72px;
+    left: 98px;
+    width: 29px;
+    height: 29px;
+    position: absolute;
+  }
+.component-1{
+  box-sizing: border-box;
+
+position: absolute;
+width: 537px;
+height: 426px;
+left: 365px;
+top: 197px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+}  

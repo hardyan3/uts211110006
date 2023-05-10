@@ -1,0 +1,192 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:500,600|Poppins:400,700|Inter:400");
+.login-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .login-login {
+    width: 100%;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-image: linear-gradient(150deg, rgba(250, 165, 1, 0.6299999952316284) 0%, rgba(251, 81, 28, 1) 53%);
+  }
+  .login-group6svg {
+    top: 120px;
+    left: 585px;
+    width: 269px;
+    height: 269px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .login-group4 {
+    top: 50.4375px;
+    left: 84.0625px;
+    width: 100.875px;
+    height: 100.875px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .login-vector {
+    top: 0px;
+    left: 0px;
+    width: 101px;
+    height: 101px;
+    position: absolute;
+  }
+  .login-group5 {
+    top: 0px;
+    left: 0px;
+    width: 269px;
+    height: 269px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .login-vector1 {
+    top: 0px;
+    left: 0px;
+    width: 269px;
+    height: 269px;
+    position: absolute;
+  }
+  .login-frame3 {
+    gap: 10px;
+    top: 389px;
+    left: 662px;
+    width: 115px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    align-items: flex-start;
+  }
+  .login-text {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 36px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-rectangle4input {
+    top: 522px;
+    left: 549px;
+    width: 337px;
+    height: 55px;
+    position: absolute;
+    border-radius: 15px;
+  }
+  .login-rectangle5input {
+    top: 633px;
+    left: 549px;
+    width: 337px;
+    height: 55px;
+    position: absolute;
+    border-radius: 15px;
+  }
+  .login-text02 {
+    top: 597px;
+    left: 551px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-text04 {
+    top: 486px;
+    left: 551px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-rectangle6button {
+    top: 712px;
+    left: 659px;
+    width: 118px;
+    height: 59px;
+    position: absolute;
+    border-radius: 15px;
+  }
+  .login-text06 {
+    top: 724px;
+    left: 688px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-arrowleftcirclefill1button {
+    top: 73px;
+    left: 104px;
+    width: 43px;
+    height: 43px;
+    position: absolute;
+  }
+  .login-text08 {
+    top: 807px;
+    left: 642px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-text10 {
+    top: 807px;
+    left: 757px;
+    color: rgba(250, 255, 23, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  

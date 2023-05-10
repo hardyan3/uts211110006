@@ -1,0 +1,281 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:500,600|Poppins:400,700|Inter:400");
+
+.landing-page{
+   align-items: flex-start;
+   background: linear-gradient(180deg, rgba(249.69, 165.15, 1.04, 0.63) 0%, rgb(251.81, 81.96, 28.33)100%);
+   background-color: rgba(255, 255, 255, 1);
+   border: 1px none;
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+   height: 1024px;
+   padding: 0 25px;
+   width: 1440px;
+}
+.hidden,
+.hidden *{
+   pointer-events: none;
+   visibility: hidden;
+}
+.flex-row{
+   align-items: flex-start;
+   align-self: center;
+   display: flex;
+   margin-left: 64px;
+   margin-top: 66px;
+   min-width: 1256px;
+}
+.frame-2-button{
+   align-items: flex-start;
+   align-self: center;
+   display: flex;
+   gap: 29px;
+   margin-left: 74px;
+   position: relative;
+   width: fit-content;
+}
+.frame-1-button{
+   align-items: center;
+   background-color: #fbaf1c;
+   cursor: pointer;
+   display: flex;
+   gap: 10px;
+   justify-content: center;
+   padding: 10px;
+   position: relative;
+   width: fit-content;
+}
+.log-in{
+   color: white;
+   font-family: 'Roboto';
+   font-size: 14px;
+   font-weight: 500;
+   letter-spacing: 0;
+   line-height: normal;
+   margin-top: -1px;
+   position: relative;
+   white-space: nowrap;
+   width: fit-content;
+}
+.frame-2-button-1{
+   align-items: center;
+   background-color: whitesmoke;
+   cursor: pointer;
+   display: flex;
+   gap: 10px;
+   justify-content: center;
+   padding: 10px;
+   position: relative;
+   width: fit-content;
+}
+.sign-in{
+   color: #fb511c;
+   font-family: 'roboto';
+   font-size: 14px;
+   font-weight: 500;
+   letter-spacing: 0;
+   line-height: normal;
+   margin-top: -1px;
+   position: relative;
+   white-space: nowrap;
+   width: fit-content;
+}
+.andhero-shoes-container{
+   height: 29px;
+   margin-top: 3px;
+   position: relative;
+   width: 170px;
+}
+.andhero-shoes{
+   left: 0;
+   letter-spacing: 0;
+   line-height: normal;
+   position: absolute;
+   top: 0;
+   white-space: nowrap;
+   color: white;
+   font-family: 'roboto';
+   font-weight: 500;
+}
+.overlap-group4{
+   height: 42px;
+   margin-left: 492px;
+   position: relative;
+   width: 368px;
+}
+.overlap-group{
+   align-items: center;
+   background-color: whitesmoke;
+   display: flex;
+   height: 42px;
+   justify-content: flex-end;
+   left: 0;
+   min-width: 362px;
+   padding: 0 9px;
+   position: absolute;
+   top: 0;
+}
+.beranda{
+   letter-spacing: 0;
+   line-height: normal;
+   min-height: 16px;
+   min-width: 52px;
+   white-space: nowrap;
+}
+.produk{
+   cursor: pointer;
+   letter-spacing: 0;
+   line-height: normal;
+   margin-left: 72px;
+   min-height: 16px;
+   min-width: 45px;
+   white-space: nowrap;
+}
+.keranjang{
+   cursor: pointer;
+   letter-spacing: 0;
+   line-height: normal;
+   margin-left: 79px;
+   min-height: 16px;
+   min-width: 64px;
+   white-space: nowrap;
+}
+.bag-1{
+   height: 28px;
+   width: 30px;
+}
+.overlap-group5{
+   height: 886px;
+   position: relative;
+   width: 1369px;
+}
+.instagram-1-button{
+   height: 30px;
+   left: 304px;
+   position: absolute;
+   top: 743px;
+   width: 30px;
+   cursor: pointer;
+}
+.facebook-1-button{
+   height: 30px;
+   left: 258px;
+   position: absolute;
+   top: 743px;
+   width: 30px;
+   cursor: pointer;
+}
+.overlap-group2{
+   height: 886px;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 1369px;
+}
+.title{
+   color: #ffffff33;
+   font-family: 'Poppins';
+   font-style: normal;
+   font-size: 96px;
+   font-weight: 700;
+   left: 13px;
+   letter-spacing: 0;
+   line-height: 144px;
+   position: absolute;
+   top: 59px;
+   transform: rotate(-7.71deg);
+   width: 900px;
+}
+.price{
+   color: white;
+   font-family: 'Poppins';
+   font-size: large;
+   font-weight: 700;
+   left: 347px;
+   letter-spacing: 0;
+   line-height: 0;
+   position: absolute;
+   top: 610px;
+   width: 161px;
+}
+.ramadhan{
+   color: white;
+   font-family: 'Poppins';
+   font-size: 60px;
+   font-weight: 700;
+   left: 357px;
+   letter-spacing: 0;
+   line-height: normal;
+   position: absolute;
+   top: 136px;
+   width: 584px;
+}
+.line-1-stroke-svg{
+   height: 6px;
+   left: 396px;
+   position: absolute;
+   top: 755px;
+   width: 362px;
+}
+.surname{
+   color: white;
+   font-family: 'Poppins';
+   font-size: 14px;
+   font-weight: 700;
+   left: 347px;
+   letter-spacing: 0;
+   line-height: normal;
+   position: absolute;
+   top: 526px;
+   width: 384px;
+}
+.pita{
+   height: 561px;
+   left: 578px;
+   object-fit: cover;
+   position: absolute;
+   top: 68px;
+   width: 791px;
+}
+.shoes{
+   height: 398px;
+   left: 690px;
+   object-fit: cover;
+   position: absolute;
+   top: 188px;
+   width: 498px;
+}
+.overlap-group1{
+   align-items: flex-start;
+   background-color: whitesmoke;
+   border-radius: 10px;
+   display: flex;
+   height: 43px;
+   left: 347px;
+   min-width: 125px;
+   padding: 4px 10px;
+   position: absolute;
+   top: 629px;
+}
+.buy-now{
+   color: #fb951c;
+   font-family: 'roboto';
+   font-size: 24px;
+   font-weight: 600;
+   letter-spacing: 0;
+   line-height: normal;
+   min-height: 28px;
+   white-space: nowrap;
+   cursor: pointer;
+}
+.whatsaap-button-1{
+   color: white;
+   height: 30px;
+   left: 350px;
+   position: absolute;
+   top: 743px;
+   width: 30px;
+   cursor: pointer;
+}
+
+
